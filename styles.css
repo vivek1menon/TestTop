@@ -27,7 +27,7 @@ img{
 
 .section-content{
 	padding: 5rem 0;
-
+	
 }
 
 #footer-main {
@@ -38,11 +38,13 @@ img{
 }
 
 #login
-{
+{	
+	background-size: cover;
 	height: 100%;
 	text-align: center;
 	display: flex;
 	align-items: center;
+	width: 100%;
 }
 
 
